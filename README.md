@@ -1,16 +1,18 @@
-### Hi there 👋
+# Lucas Sousa
 
-<!--
-**LucasSousa97/LucasSousa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer software 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Sousa-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/lucas-sousa-a10474212/)](https://www.linkedin.com/in/lucas-sousa-a10474212/) 
+[![Gmail Badge](https://img.shields.io/badge/-devlucassousa@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucassousa@gmail.com)](mailto:devlucassousa@gmail.com)
+
+Enthusiast of the best web & mobile development technologies.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
