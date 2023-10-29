@@ -15,4 +15,5 @@ Enthusiast of the best web & mobile development technologies.
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="figma" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png">
 </div>
